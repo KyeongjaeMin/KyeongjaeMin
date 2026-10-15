@@ -16,8 +16,10 @@ Only confirmed dates are listed.
 |---|---|
 | 2025 | Applied to CS programs abroad. Deferred entry to self-fund my education |
 | TODO | Joined Seojin Hi-Tech |
-| 2026-08-31 | Built an internal training page for routine tasks |
+| 2026-08 | Researched Inno-Biz and Main-Biz certification and reported to the CEO |
+| 2026-08-31 | Built and shared a video-based handover training page |
 | 2026-09-09 | Compared our company blog with a competitor's on five metrics |
+| 2026-09 | Produced a proposal deck for an AI essay-assessment system |
 | 2026-09-15 | Started the company's first official website |
 | 2026-10-15 | Launched it at www.cosmicplus.co.kr with search registration |
 | TODO | Planned university entry |
@@ -25,11 +27,13 @@ Only confirmed dates are listed.
 ## Work
 
 **Seojin Hi-Tech** — small manufacturer of air circulators, school indoor-air-quality maintenance and safety guards
+Quality Management team, staff member
 
 - Marketing and public relations
 - Running the company's Naver blog
 - Monthly data reports
 - Public procurement bids and sales
+- Certifications
 - Building and operating the company website
 
 ## Projects
@@ -37,7 +41,7 @@ Only confirmed dates are listed.
 <!-- PROJECTS:START -->
 **3 projects** · 1 live · Web 2 · Automation 1
 
-- **Seojin Academy — Internal Training Page** — A single-page guide that turns routine tasks (school visits, monthly reports, filter replacement) into step-by-step lessons.
+- **Seojin Academy — Handover Training Page** — A video-based training page for handover, so work continues when senior staff or the CEO are away. Deployed on Netlify and shared with staff.
 - **Naver Blog Competitor Analysis** — Collected 40 recent posts each from the company blog and a competitor's, then compared them on five structural metrics.
 - **Seojin Hi-Tech Official Website** — The company's first official website, planned and shipped in one month and now in operation on its own domain. · [Live](https://www.cosmicplus.co.kr)
 <!-- PROJECTS:END -->
@@ -54,8 +58,8 @@ These are plans, not results.
 ## Monthly Log
 
 - **2026-10** — Launched the company website on its own domain (10-15). Added service videos made with AI and checked frame by frame.
-- **2026-09** — Blog comparison analysis (09-09). Started the company website (09-15) and built most of it.
-- **2026-08** — Internal training page (08-31).
+- **2026-09** — Blog comparison analysis (09-09). Proposal deck for an AI assessment system. Started the company website (09-15) and built most of it.
+- **2026-08** — Certification research and feasibility report. Handover training page (08-31).
 
 ## Contact
 
