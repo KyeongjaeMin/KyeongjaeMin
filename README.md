@@ -23,6 +23,7 @@ Only confirmed dates are listed.
 | 2026-09 | Produced a proposal deck for an AI essay-assessment system |
 | 2026-09-15 | Started the company's first official website |
 | 2026-10-15 | Launched it at www.cosmicplus.co.kr with search registration |
+| 2026-10-15 | Shared N☆AH, a portfolio site for a filmmaker friend, at noahyoon.vercel.app (started 10-14) |
 | Undecided | Planned university entry |
 
 ## Work
@@ -40,12 +41,13 @@ Quality Management team, staff member
 ## Projects
 
 <!-- PROJECTS:START -->
-**4 projects** · 1 live · Web 3 · Automation 1
+**5 projects** · 1 live · Web 4 · Automation 1
 
 - **Seojin Academy — Handover Training Page** — A video-based training page for handover, so work continues when senior staff or the CEO are away. Deployed on Netlify and shared with staff.
 - **Naver Blog Competitor Analysis** — Collected 40 recent posts each from the company blog and a competitor's, then compared them on five structural metrics.
 - **Seojin Hi-Tech Official Website** — The company's first official website, planned and shipped in one month and now in operation on its own domain. · [Live](https://www.cosmicplus.co.kr)
 - **What-if.. — A Shared Map for Couples** — A personal PWA where a couple pins places they visited, plan to visit, or want to visit, with trip plans and saved links. Built solo.
+- **N☆AH — Portfolio Site for a Filmmaker Friend** — A portfolio and commission site for a film student, built around his love of stars: an analog-TV intro, a rotating 3D gallery, and a galaxy map where each work is a star. · [Live](https://noahyoon.vercel.app)
 <!-- PROJECTS:END -->
 
 Detailed records (decisions, verification, devlogs) will be published later.
@@ -59,7 +61,7 @@ These are plans, not results.
 
 ## Monthly Log
 
-- **2026-10** — Launched the company website on its own domain (10-15). Added service videos made with AI and checked frame by frame.
+- **2026-10** — Launched the company website on its own domain (10-15). Added service videos made with AI and checked frame by frame. Built and shared N☆AH, a portfolio site for a filmmaker friend (10-14 ~ 10-15).
 - **2026-09** — Started What-if.. (09-02). Blog comparison analysis (09-09). Proposal deck for an AI assessment system. Started the company website (09-15) and built most of it.
 - **2026-07** — Joined Seojin Hi-Tech (07-01).
 - **2026-08** — Certification research and feasibility report. Handover training page (08-31).
